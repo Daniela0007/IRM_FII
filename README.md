@@ -28,6 +28,8 @@
     - un avatar pentru animația de **Grab**.
     - un avatar pentru animația de **Trigger**.
     - ambele sunt derivate din **HandGrabbingAnimation** si avatarul **Trigger** să includă doar **thumb bones** și **index bones**
+ 
+**PS**: Partea cu Hand Grabbing nu este atat de accurate, probabil din cauza Box Collider-ul de la Golf Club
 
 ## Arhiva Proiect:
 [Proiect ZIP](https://we.tl/t-Z2OObznmYA)
